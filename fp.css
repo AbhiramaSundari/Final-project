@@ -1,6 +1,11 @@
 video{
-  position: fixed;
-  min-width: 100%;
+
+  width: 100%;
+  
+  
+}
+body{
+  background-color: lightblue;
 }
 h1{
     font-family: 'Acme', sans-serif;
@@ -8,27 +13,41 @@ h1{
     color: rgb(128, 47, 0);
 }
 
-        nav {
-         
-          margin: 0px;
-          padding: 10px 10px;
-          background-color: brown;
-          width: 100%;
-          
-        }
-        
-        a {
-          display: inline;
-          font-size: larger;
-          padding: 50px 50px;
-          color: cornsilk;
-          text-decoration: none;
-        }
-        .content {
-            position:fixed;
-           width: 100%;
-          padding: 100px;
-            text-align: center;
-          }
-          
+nav {
+  
+  margin: 0px;
+  padding: 10px 0px;
+  background-color: brown;
+  width: 100%;
+  
+  
+}
+
+a {
+  display: inline;
+  font-size: larger;
+  padding: 50px 50px;
+  color: cornsilk;
+  text-decoration: none;
+}
+.video-parent{
+  position: relative;
+
+}
+.main-heading{
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+
+}
+
+
+p{
+  font-family: 'Permanent Marker', cursive;
+  font-size: xx-large;
+
+}
+
+  
          
