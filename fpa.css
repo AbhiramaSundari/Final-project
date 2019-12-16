@@ -1,0 +1,25 @@
+body{
+    padding : 5px 5px;
+    top : 10px;
+    background-color: burlywood;
+    border: 1px solid black;
+    
+}
+.right{
+    
+   
+    width: 60%;
+    display: inline-block;
+    vertical-align: top;
+    font-size: larger;
+    
+}
+.left{
+    width: 39%;
+    display: inline-block;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
