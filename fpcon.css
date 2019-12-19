@@ -1,19 +1,24 @@
 body{
     background-color: burlywood;
     border: 1px solid black;
+    font-family: 'Philosopher', sans-serif;
 }
 h1{
     font-size: 50px;
     margin-top: 200px;
+    color: brown;
 }
 .right{
-    width: 35%;
+    width: 45%;
     display: inline-block;
     vertical-align: top;
+  
 }
 .left{
     margin-top: 200px;
-    width: 64%;
+    width: 54%;
     display: inline-block;
-    vertical-align: top;
+   vertical-align: top;
+   
+  
 }
