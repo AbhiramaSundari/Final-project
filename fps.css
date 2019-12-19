@@ -1,0 +1,40 @@
+body{
+    background-color: burlywood;
+    border: 1px solid black;
+
+}
+.header{
+    padding: 2px 2px;
+}
+.contents{
+    padding: 5px 5px;
+}
+
+.right{
+    width: 25%;
+    display: inline-block;
+    vertical-align: top;
+}
+.left{
+    width: 74%;
+    display: inline-block;
+    vertical-align: top;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+nav {
+  
+   
+     font-family: 'Anton', sans-serif;
+    width: 100%;
+    font-size: larger;
+    text-align: center;
+    overflow: hidden;
+    
+  }
+  #bachelors{
+    font-family: 'Anton', sans-serif;
+
+  }
