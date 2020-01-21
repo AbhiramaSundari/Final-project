@@ -6,6 +6,7 @@ video{
 }
 body{
   background-color: burlywood;
+  margin: 0px;
 }
 h1{
     font-family: 'Acme', sans-serif;
