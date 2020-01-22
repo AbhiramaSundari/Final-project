@@ -49,6 +49,14 @@ p{
   font-size: xx-large;
 
 }
+.side-heading{
+  position: absolute;
+  top: 50%;
+  left: 65%;
+  transform: translate(-50%,-50%);
+
+
+}
 
 
 

@@ -15,4 +15,38 @@ body{
     cursor: pointer;
     border-radius: 100%;
   }
+  p{
+    font-family: 'Permanent Marker', cursive;
+    font-size: x-large;
+  }
+  h1{
+    font-family: 'Acme', sans-serif;
+    font-size: 50px;
+  }
+  .flex-container {
+    max-width: 1200px;
+    display: flex;
+    flex-wrap: nowrap;
+    
+  }
   
+  .item {
+    padding: 10px;
+  }
+  
+  img {
+    width: 110%;
+    height: auto;
+    display: block;
+  }
+  a{
+    display: inline;
+  font-size: larger;
+  
+  color: black;
+  text-decoration: none;
+
+}
+a:hover{
+  text-decoration: underline;
+}
